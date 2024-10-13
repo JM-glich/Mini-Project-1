@@ -16,7 +16,6 @@ Jika memilih opsi 4, program selesai.
 
 
 
-
 INI GAMBAR OUTPUT TERMINALNYA
 
 Gambar 1
