@@ -16,26 +16,32 @@ Jika memilih opsi 4, program selesai.
 
 
 
+
 INI GAMBAR OUTPUT TERMINALNYA
+
 Gambar 1
 
 ![Cuplikan layar 2024-10-13 155949](https://github.com/user-attachments/assets/ed45b89e-ceb8-494d-a34e-4529b44856a0)
+
 Seperti yang terlihat pada gambar, terdapat menu Sigh Up, Login, admin dan keluar. ketika mengetik opsi 1, maka akan diminta untuk membuat akun. lalu ketika selesai kita akan melakukan login ke akun yang sudah dibuat dan saat berhasil login akan muncul menu layanan produknya
 
 
 Gambar 2
 
 ![Cuplikan layar 2024-10-13 160058](https://github.com/user-attachments/assets/52312e3a-63a1-4992-b37d-61eec7962958)
+
 Pada gambar ini ketika memilih salah satu produk, maka akan muncul keterangan produk. Lalu kita akan ditanya apakah akan melanjutkan atau tidak. Jika ya, maka program akan melanjutkan trasaksi dan jika tidak, maka akan kembali ke menu layanan produk. 
 
 
 Gambar 3
 
 ![Cuplikan layar 2024-10-13 160314](https://github.com/user-attachments/assets/b35525e2-defc-412f-bc69-2b0961b63a72)
+
 Di gambar ke-3 ini, manampilkan saat kembali dari menu layanan produk dan memilih opsi admin. Bisa terlihat bahwa program akan menanyakan kata sandinya dan jika salah, program akan berhenti dan memaksa keluar. Tapi jika benar, program akan menampilkan menu admin
 
 
 Gambar 4
 
 ![Cuplikan layar 2024-10-13 160631](https://github.com/user-attachments/assets/cbeafed4-72dd-4e1e-85fb-a2ac2d978fc0)
+
 Di gambar ini, adalah tampilan dari menu admin dan contoh penggunaannya. Serta tampilan jika kita sudah selesai menggunakan progarm.
